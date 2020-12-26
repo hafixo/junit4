@@ -95,9 +95,9 @@
     <properties>
         <jdkVersion>1.5</jdkVersion>
         <surefireVersion>2.19.1</surefireVersion>
-        <hamcrestVersion>1.3</hamcrestVersion>
+        <hamcrestVersion>2.2</hamcrestVersion>
         <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
-        <arguments />
+        <arguments/>
         <gpg.keyname>67893CC4</gpg.keyname>
     </properties>
 
